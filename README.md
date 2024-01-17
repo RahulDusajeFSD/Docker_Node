@@ -1,13 +1,12 @@
-Command to Build Docker File:
+1) Command to Build Docker File:
 
 docker build -t my-node-app
 
--- 
-Command to Run Docker File:
+
+2) Command to Run Docker File:
 
 docker run -p 4000:3000 my-node-app
---
 
-Access the application on:
+3) Access the application on:
 
 localhost:4000
